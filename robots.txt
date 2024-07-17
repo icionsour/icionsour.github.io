@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://icionsour.github.io/sitemap
+Sitemap: https://icionsour.github.io/app/sitemap
+Sitemap: https://icionsour.github.io/assets/sitemap
+Sitemap: https://icionsour.github.io/css/sitemap
+Sitemap: https://icionsour.github.io/includes/sitemap
+Sitemap: https://icionsour.github.io/item/sitemap
+Sitemap: https://icionsour.github.io/src/sitemap
